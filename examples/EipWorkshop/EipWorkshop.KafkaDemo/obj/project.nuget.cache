@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fi5vCcMPTIlINrMeQlYaZiU25U+JZKTu0ptV2hpc86n6jXBu/gkG+GaCg1Y9unJkjj1An/SCxr793nVS7xgKjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.KafkaDemo\\EipWorkshop.KafkaDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\confluent.kafka\\2.5.0\\confluent.kafka.2.5.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\librdkafka.redist\\2.5.0\\librdkafka.redist.2.5.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

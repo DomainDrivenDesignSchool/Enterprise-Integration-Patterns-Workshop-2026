@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFiR3E3/DJbDA+XU5/d+gfa+aAE5mpeeQEivm7yqcCksn5Z3PvfckpCo6lnoze4o20s3QaCSm+2m2YaKFO3Quw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.RabbitDemo\\EipWorkshop.RabbitDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

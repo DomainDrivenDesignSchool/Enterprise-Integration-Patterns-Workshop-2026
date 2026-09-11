@@ -1,0 +1,566 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\EipWorkshop.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj",
+        "projectName": "EipWorkshop.Core",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Messaging\\EipWorkshop.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Messaging\\EipWorkshop.Messaging.csproj",
+        "projectName": "EipWorkshop.Messaging",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Messaging\\EipWorkshop.Messaging.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.PipesAndFilters\\EipWorkshop.PipesAndFilters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.PipesAndFilters\\EipWorkshop.PipesAndFilters.csproj",
+        "projectName": "EipWorkshop.PipesAndFilters",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.PipesAndFilters\\EipWorkshop.PipesAndFilters.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.PipesAndFilters\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj",
+        "projectName": "EipWorkshop.Reliability",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Routing\\EipWorkshop.Routing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Routing\\EipWorkshop.Routing.csproj",
+        "projectName": "EipWorkshop.Routing",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Routing\\EipWorkshop.Routing.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Routing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Saga\\EipWorkshop.Saga.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Saga\\EipWorkshop.Saga.csproj",
+        "projectName": "EipWorkshop.Saga",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Saga\\EipWorkshop.Saga.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Saga\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\EipWorkshop.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\EipWorkshop.Tests.csproj",
+        "projectName": "EipWorkshop.Tests",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\EipWorkshop.Tests.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj"
+              },
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Messaging\\EipWorkshop.Messaging.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Messaging\\EipWorkshop.Messaging.csproj"
+              },
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.PipesAndFilters\\EipWorkshop.PipesAndFilters.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.PipesAndFilters\\EipWorkshop.PipesAndFilters.csproj"
+              },
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj"
+              },
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Routing\\EipWorkshop.Routing.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Routing\\EipWorkshop.Routing.csproj"
+              },
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Saga\\EipWorkshop.Saga.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Saga\\EipWorkshop.Saga.csproj"
+              },
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\EipWorkshop.Transformation.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\EipWorkshop.Transformation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\EipWorkshop.Transformation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\EipWorkshop.Transformation.csproj",
+        "projectName": "EipWorkshop.Transformation",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\EipWorkshop.Transformation.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\EipWorkshop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

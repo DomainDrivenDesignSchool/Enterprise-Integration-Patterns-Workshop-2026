@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\bin\Debug\net8.0\EipWorkshop.Routing.deps.json
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\bin\Debug\net8.0\EipWorkshop.Routing.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\bin\Debug\net8.0\EipWorkshop.Routing.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\bin\Debug\net8.0\EipWorkshop.Core.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\bin\Debug\net8.0\EipWorkshop.Core.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\obj\Debug\net8.0\EipWorkshop.Routing.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\obj\Debug\net8.0\EipWorkshop.Routing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\obj\Debug\net8.0\EipWorkshop.Routing.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\obj\Debug\net8.0\EipWorkshop.Routing.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\obj\Debug\net8.0\EipWorkshop.Routing.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\obj\Debug\net8.0\EipWorks.9D171D9A.Up2Date
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\obj\Debug\net8.0\EipWorkshop.Routing.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\obj\Debug\net8.0\refint\EipWorkshop.Routing.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\obj\Debug\net8.0\EipWorkshop.Routing.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Routing\obj\Debug\net8.0\ref\EipWorkshop.Routing.dll

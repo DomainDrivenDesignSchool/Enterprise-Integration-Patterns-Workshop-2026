@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\bin\Debug\net8.0\EipWorkshop.Messaging.deps.json
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\bin\Debug\net8.0\EipWorkshop.Messaging.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\bin\Debug\net8.0\EipWorkshop.Messaging.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\bin\Debug\net8.0\EipWorkshop.Core.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\bin\Debug\net8.0\EipWorkshop.Core.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\obj\Debug\net8.0\EipWorkshop.Messaging.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\obj\Debug\net8.0\EipWorkshop.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\obj\Debug\net8.0\EipWorkshop.Messaging.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\obj\Debug\net8.0\EipWorkshop.Messaging.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\obj\Debug\net8.0\EipWorkshop.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\obj\Debug\net8.0\EipWorks.0E77100C.Up2Date
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\obj\Debug\net8.0\EipWorkshop.Messaging.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\obj\Debug\net8.0\refint\EipWorkshop.Messaging.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\obj\Debug\net8.0\EipWorkshop.Messaging.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Messaging\obj\Debug\net8.0\ref\EipWorkshop.Messaging.dll

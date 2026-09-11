@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Core\bin\Debug\net8.0\EipWorkshop.Core.deps.json
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Core\bin\Debug\net8.0\EipWorkshop.Core.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Core\bin\Debug\net8.0\EipWorkshop.Core.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Core\obj\Debug\net8.0\EipWorkshop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Core\obj\Debug\net8.0\EipWorkshop.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Core\obj\Debug\net8.0\EipWorkshop.Core.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Core\obj\Debug\net8.0\EipWorkshop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Core\obj\Debug\net8.0\EipWorkshop.Core.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Core\obj\Debug\net8.0\refint\EipWorkshop.Core.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Core\obj\Debug\net8.0\EipWorkshop.Core.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Core\obj\Debug\net8.0\ref\EipWorkshop.Core.dll

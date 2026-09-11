@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Saga\bin\Debug\net8.0\EipWorkshop.Saga.deps.json
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Saga\bin\Debug\net8.0\EipWorkshop.Saga.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Saga\bin\Debug\net8.0\EipWorkshop.Saga.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Saga\obj\Debug\net8.0\EipWorkshop.Saga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Saga\obj\Debug\net8.0\EipWorkshop.Saga.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Saga\obj\Debug\net8.0\EipWorkshop.Saga.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Saga\obj\Debug\net8.0\EipWorkshop.Saga.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Saga\obj\Debug\net8.0\EipWorkshop.Saga.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Saga\obj\Debug\net8.0\refint\EipWorkshop.Saga.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Saga\obj\Debug\net8.0\EipWorkshop.Saga.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Saga\obj\Debug\net8.0\ref\EipWorkshop.Saga.dll

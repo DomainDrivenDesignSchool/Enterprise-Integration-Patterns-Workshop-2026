@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\bin\Debug\net8.0\EipWorkshop.Transformation.deps.json
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\bin\Debug\net8.0\EipWorkshop.Transformation.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\bin\Debug\net8.0\EipWorkshop.Transformation.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\bin\Debug\net8.0\EipWorkshop.Core.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\bin\Debug\net8.0\EipWorkshop.Core.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\obj\Debug\net8.0\EipWorkshop.Transformation.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\obj\Debug\net8.0\EipWorkshop.Transformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\obj\Debug\net8.0\EipWorkshop.Transformation.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\obj\Debug\net8.0\EipWorkshop.Transformation.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\obj\Debug\net8.0\EipWorkshop.Transformation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\obj\Debug\net8.0\EipWorks.E52AA629.Up2Date
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\obj\Debug\net8.0\EipWorkshop.Transformation.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\obj\Debug\net8.0\refint\EipWorkshop.Transformation.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\obj\Debug\net8.0\EipWorkshop.Transformation.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Transformation\obj\Debug\net8.0\ref\EipWorkshop.Transformation.dll

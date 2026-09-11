@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\bin\Debug\net8.0\EipWorkshop.RabbitDemo.deps.json
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\bin\Debug\net8.0\EipWorkshop.RabbitDemo.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\bin\Debug\net8.0\EipWorkshop.RabbitDemo.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\obj\Debug\net8.0\EipWorkshop.RabbitDemo.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\obj\Debug\net8.0\EipWorkshop.RabbitDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\obj\Debug\net8.0\EipWorkshop.RabbitDemo.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\obj\Debug\net8.0\EipWorkshop.RabbitDemo.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\obj\Debug\net8.0\EipWorkshop.RabbitDemo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\obj\Debug\net8.0\EipWorkshop.RabbitDemo.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\obj\Debug\net8.0\refint\EipWorkshop.RabbitDemo.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\obj\Debug\net8.0\EipWorkshop.RabbitDemo.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.RabbitDemo\obj\Debug\net8.0\ref\EipWorkshop.RabbitDemo.dll

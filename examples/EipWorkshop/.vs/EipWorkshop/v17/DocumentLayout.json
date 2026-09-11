@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB3BBA4-8B98-49E2-B2B5-FBAEE4B0841F}|EipWorkshop.Messaging\\EipWorkshop.Messaging.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.messaging\\ibroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB3BBA4-8B98-49E2-B2B5-FBAEE4B0841F}|EipWorkshop.Messaging\\EipWorkshop.Messaging.csproj|solutionrelative:eipworkshop.messaging\\ibroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB3BBA4-8B98-49E2-B2B5-FBAEE4B0841F}|EipWorkshop.Messaging\\EipWorkshop.Messaging.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.messaging\\inmemorybroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB3BBA4-8B98-49E2-B2B5-FBAEE4B0841F}|EipWorkshop.Messaging\\EipWorkshop.Messaging.csproj|solutionrelative:eipworkshop.messaging\\inmemorybroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.tests\\inboxoutboxtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|solutionrelative:eipworkshop.tests\\inboxoutboxtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.reliability\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|solutionrelative:eipworkshop.reliability\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.reliability\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|solutionrelative:eipworkshop.reliability\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.reliability\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|solutionrelative:eipworkshop.reliability\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.reliability\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|solutionrelative:eipworkshop.reliability\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.reliability\\retrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|solutionrelative:eipworkshop.reliability\\retrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.tests\\splitaggregatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|solutionrelative:eipworkshop.tests\\splitaggregatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1909DD6-D626-42CF-B34E-AA23551CAC63}|EipWorkshop.Routing\\EipWorkshop.Routing.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.routing\\aggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1909DD6-D626-42CF-B34E-AA23551CAC63}|EipWorkshop.Routing\\EipWorkshop.Routing.csproj|solutionrelative:eipworkshop.routing\\aggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.reliability\\inboxprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|solutionrelative:eipworkshop.reliability\\inboxprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.reliability\\inboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|solutionrelative:eipworkshop.reliability\\inboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.reliability\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50C2CCF-57F9-4114-868E-560C75C8F82B}|EipWorkshop.Reliability\\EipWorkshop.Reliability.csproj|solutionrelative:eipworkshop.reliability\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.tests\\inmemorybrokertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|solutionrelative:eipworkshop.tests\\inmemorybrokertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.tests\\routingsliptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|solutionrelative:eipworkshop.tests\\routingsliptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85690569-1BE7-427C-8B71-3B7251728E5B}|EipWorkshop.Transformation\\EipWorkshop.Transformation.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.transformation\\routingslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85690569-1BE7-427C-8B71-3B7251728E5B}|EipWorkshop.Transformation\\EipWorkshop.Transformation.csproj|solutionrelative:eipworkshop.transformation\\routingslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.tests\\recipientlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|solutionrelative:eipworkshop.tests\\recipientlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85690569-1BE7-427C-8B71-3B7251728E5B}|EipWorkshop.Transformation\\EipWorkshop.Transformation.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.transformation\\recipientlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85690569-1BE7-427C-8B71-3B7251728E5B}|EipWorkshop.Transformation\\EipWorkshop.Transformation.csproj|solutionrelative:eipworkshop.transformation\\recipientlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.tests\\contentenrichertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD139D8-8316-4648-B1EB-6A5A322292DA}|EipWorkshop.Tests\\EipWorkshop.Tests.csproj|solutionrelative:eipworkshop.tests\\contentenrichertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85690569-1BE7-427C-8B71-3B7251728E5B}|EipWorkshop.Transformation\\EipWorkshop.Transformation.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.transformation\\contentenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85690569-1BE7-427C-8B71-3B7251728E5B}|EipWorkshop.Transformation\\EipWorkshop.Transformation.csproj|solutionrelative:eipworkshop.transformation\\contentenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0049FCC4-9D47-446A-99E3-B881B7D93F1D}|EipWorkshop.Core\\EipWorkshop.Core.csproj|c:\\users\\asus\\source\\repos\\eipworkshop\\eipworkshop.core\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0049FCC4-9D47-446A-99E3-B881B7D93F1D}|EipWorkshop.Core\\EipWorkshop.Core.csproj|solutionrelative:eipworkshop.core\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryBroker.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Messaging\\InMemoryBroker.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Messaging\\InMemoryBroker.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Messaging\\InMemoryBroker.cs",
+              "RelativeToolTip": "EipWorkshop.Messaging\\InMemoryBroker.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T12:58:26.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBroker.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Messaging\\IBroker.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Messaging\\IBroker.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Messaging\\IBroker.cs",
+              "RelativeToolTip": "EipWorkshop.Messaging\\IBroker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T12:58:25.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\OrderService.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Reliability\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\OrderService.cs",
+              "RelativeToolTip": "EipWorkshop.Reliability\\OrderService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAArwBkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T12:46:11.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Reliability\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\AppDbContext.cs",
+              "RelativeToolTip": "EipWorkshop.Reliability\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T12:45:36.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RetryPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\RetryPolicy.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Reliability\\RetryPolicy.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\RetryPolicy.cs",
+              "RelativeToolTip": "EipWorkshop.Reliability\\RetryPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T12:14:02.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Aggregator.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Routing\\Aggregator.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Routing\\Aggregator.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Routing\\Aggregator.cs",
+              "RelativeToolTip": "EipWorkshop.Routing\\Aggregator.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowEUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T12:02:18.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SplitAggregateTests.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\SplitAggregateTests.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Tests\\SplitAggregateTests.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\SplitAggregateTests.cs",
+              "RelativeToolTip": "EipWorkshop.Tests\\SplitAggregateTests.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwEIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:54:59.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMessageBus.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\IMessageBus.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Reliability\\IMessageBus.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\IMessageBus.cs",
+              "RelativeToolTip": "EipWorkshop.Reliability\\IMessageBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:52:27.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InboxMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\InboxMessage.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Reliability\\InboxMessage.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\InboxMessage.cs",
+              "RelativeToolTip": "EipWorkshop.Reliability\\InboxMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:52:14.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InboxProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\InboxProcessor.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Reliability\\InboxProcessor.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\InboxProcessor.cs",
+              "RelativeToolTip": "EipWorkshop.Reliability\\InboxProcessor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:52:01.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\Order.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Reliability\\Order.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\Order.cs",
+              "RelativeToolTip": "EipWorkshop.Reliability\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:51:59.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutboxMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\OutboxMessage.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Reliability\\OutboxMessage.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Reliability\\OutboxMessage.cs",
+              "RelativeToolTip": "EipWorkshop.Reliability\\OutboxMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:48:40.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InMemoryBrokerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\InMemoryBrokerTests.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Tests\\InMemoryBrokerTests.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\InMemoryBrokerTests.cs",
+              "RelativeToolTip": "EipWorkshop.Tests\\InMemoryBrokerTests.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:47:46.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InboxOutboxTests.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\InboxOutboxTests.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Tests\\InboxOutboxTests.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\InboxOutboxTests.cs",
+              "RelativeToolTip": "EipWorkshop.Tests\\InboxOutboxTests.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:47:40.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoutingSlipTests.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\RoutingSlipTests.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Tests\\RoutingSlipTests.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\RoutingSlipTests.cs",
+              "RelativeToolTip": "EipWorkshop.Tests\\RoutingSlipTests.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAiwOsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:34:48.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RecipientListTests.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\RecipientListTests.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Tests\\RecipientListTests.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\RecipientListTests.cs",
+              "RelativeToolTip": "EipWorkshop.Tests\\RecipientListTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwGoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:33:14.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecipientList.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\RecipientList.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Transformation\\RecipientList.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\RecipientList.cs",
+              "RelativeToolTip": "EipWorkshop.Transformation\\RecipientList.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:33:06.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoutingSlip.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\RoutingSlip.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Transformation\\RoutingSlip.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\RoutingSlip.cs",
+              "RelativeToolTip": "EipWorkshop.Transformation\\RoutingSlip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:33:02.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\Message.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Core\\Message.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Core\\Message.cs",
+              "RelativeToolTip": "EipWorkshop.Core\\Message.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:29:17.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContentEnricherTests.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\ContentEnricherTests.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Tests\\ContentEnricherTests.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Tests\\ContentEnricherTests.cs",
+              "RelativeToolTip": "EipWorkshop.Tests\\ContentEnricherTests.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAIwJMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:16:13.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContentEnricher.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\ContentEnricher.cs",
+              "RelativeDocumentMoniker": "EipWorkshop.Transformation\\ContentEnricher.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\EipWorkshop\\EipWorkshop.Transformation\\ContentEnricher.cs",
+              "RelativeToolTip": "EipWorkshop.Transformation\\ContentEnricher.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:16:05.421Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

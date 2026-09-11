@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\bin\Debug\net8.0\EipWorkshop.KafkaDemo.deps.json
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\bin\Debug\net8.0\EipWorkshop.KafkaDemo.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\bin\Debug\net8.0\EipWorkshop.KafkaDemo.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\obj\Debug\net8.0\EipWorkshop.KafkaDemo.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\obj\Debug\net8.0\EipWorkshop.KafkaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\obj\Debug\net8.0\EipWorkshop.KafkaDemo.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\obj\Debug\net8.0\EipWorkshop.KafkaDemo.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\obj\Debug\net8.0\EipWorkshop.KafkaDemo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\obj\Debug\net8.0\EipWorkshop.KafkaDemo.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\obj\Debug\net8.0\refint\EipWorkshop.KafkaDemo.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\obj\Debug\net8.0\EipWorkshop.KafkaDemo.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.KafkaDemo\obj\Debug\net8.0\ref\EipWorkshop.KafkaDemo.dll

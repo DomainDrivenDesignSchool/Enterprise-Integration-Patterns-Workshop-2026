@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\bin\Debug\net8.0\EipWorkshop.PipesAndFilters.deps.json
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\bin\Debug\net8.0\EipWorkshop.PipesAndFilters.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\bin\Debug\net8.0\EipWorkshop.PipesAndFilters.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\bin\Debug\net8.0\EipWorkshop.Core.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\bin\Debug\net8.0\EipWorkshop.Core.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\obj\Debug\net8.0\EipWorkshop.PipesAndFilters.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\obj\Debug\net8.0\EipWorkshop.PipesAndFilters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\obj\Debug\net8.0\EipWorkshop.PipesAndFilters.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\obj\Debug\net8.0\EipWorkshop.PipesAndFilters.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\obj\Debug\net8.0\EipWorkshop.PipesAndFilters.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\obj\Debug\net8.0\EipWorks.3C08FCAB.Up2Date
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\obj\Debug\net8.0\EipWorkshop.PipesAndFilters.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\obj\Debug\net8.0\refint\EipWorkshop.PipesAndFilters.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\obj\Debug\net8.0\EipWorkshop.PipesAndFilters.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.PipesAndFilters\obj\Debug\net8.0\ref\EipWorkshop.PipesAndFilters.dll

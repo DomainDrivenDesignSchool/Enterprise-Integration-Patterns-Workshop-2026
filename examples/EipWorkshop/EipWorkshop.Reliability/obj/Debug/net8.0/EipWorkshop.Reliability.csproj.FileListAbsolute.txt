@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\bin\Debug\net8.0\EipWorkshop.Reliability.deps.json
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\bin\Debug\net8.0\EipWorkshop.Reliability.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\bin\Debug\net8.0\EipWorkshop.Reliability.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\bin\Debug\net8.0\EipWorkshop.Core.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\bin\Debug\net8.0\EipWorkshop.Core.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\obj\Debug\net8.0\EipWorkshop.Reliability.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\obj\Debug\net8.0\EipWorkshop.Reliability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\obj\Debug\net8.0\EipWorkshop.Reliability.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\obj\Debug\net8.0\EipWorkshop.Reliability.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\obj\Debug\net8.0\EipWorkshop.Reliability.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\obj\Debug\net8.0\EipWorks.6E983F54.Up2Date
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\obj\Debug\net8.0\EipWorkshop.Reliability.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\obj\Debug\net8.0\refint\EipWorkshop.Reliability.dll
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\obj\Debug\net8.0\EipWorkshop.Reliability.pdb
+C:\Users\Asus\source\repos\EipWorkshop\EipWorkshop.Reliability\obj\Debug\net8.0\ref\EipWorkshop.Reliability.dll
