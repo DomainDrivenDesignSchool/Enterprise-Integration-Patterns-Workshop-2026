@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS "ProcessedEvents"("ConsumerName" varchar(100) NOT NULL,"EventId" uuid NOT NULL,"PayloadHash" varchar(128) NOT NULL,"ProcessedAt" timestamptz NOT NULL,PRIMARY KEY("ConsumerName","EventId"));

@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+<PropertyGroup><TargetFramework>net10.0</TargetFramework><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings></PropertyGroup>
+<ItemGroup><FrameworkReference Include="Microsoft.AspNetCore.App"/><ProjectReference Include="../Messaging/Messaging.csproj" /><PackageReference Include="Microsoft.Extensions.Hosting"/><PackageReference Include="Microsoft.Data.SqlClient"/><PackageReference Include="Confluent.Kafka"/></ItemGroup>
+</Project>

@@ -1,0 +1,27 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Contracts/Contracts.csproj" />
+    <Project Path="src/Persistence/Persistence.csproj" />
+    <Project Path="src/EventStore/EventStore.csproj" />
+    <Project Path="src/Messaging/Messaging.csproj" />
+    <Project Path="src/OrderService/OrderService.csproj" />
+    <Project Path="src/PaymentWorker/PaymentWorker.csproj" />
+    <Project Path="src/InventoryWorker/InventoryWorker.csproj" />
+    <Project Path="src/AnalyticsWorker/AnalyticsWorker.csproj" />
+    <Project Path="src/RabbitMqWorker/RabbitMqWorker.csproj" />
+    <Project Path="src/Shared/Shared.csproj" />
+    <Project Path="src/StreamProcessor/StreamProcessor.csproj" />
+    <Project Path="src/ShippingWorker/ShippingWorker.csproj" />
+    <Project Path="src/NotificationWorker/NotificationWorker.csproj" />
+    <Project Path="src/SagaOrchestrator/SagaOrchestrator.csproj" />
+    <Project Path="src/CdcEnricher/CdcEnricher.csproj" />
+    <Project Path="src/RetryScheduler/RetryScheduler.csproj" />
+    <Project Path="src/DlqReplay/DlqReplay.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Contracts.Tests/Contracts.Tests.csproj" />
+    <Project Path="tests/Pattern.Tests/Pattern.Tests.csproj" />
+    <Project Path="tests/EventStore.Tests/EventStore.Tests.csproj" />
+    <Project Path="tests/EventStore.Integration/EventStore.Integration.csproj" />
+  </Folder>
+</Solution>

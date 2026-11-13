@@ -1,0 +1,6 @@
+-- Historical schema notes retained for reference only.
+-- The authoritative service-owned schemas used by the current runnable flow are:
+-- 04-payment-schema.sql, 05-inventory-schema.sql, 06-saga-schema.sql,
+-- 07-shipping-schema.sql, 08-cdc-enrichment-schema.sql,
+-- 09-retry-schedule-schema.sql, 10-stream-state-schema.sql and 12-analytics-schema.sql.
+-- Use ops/sql/apply-schemas.sh to apply the active schemas.

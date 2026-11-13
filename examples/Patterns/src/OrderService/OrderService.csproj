@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk.Web"><ItemGroup>
+<ProjectReference Include="../Contracts/Contracts.csproj"/><ProjectReference Include="../Persistence/Persistence.csproj"/><ProjectReference Include="../Messaging/Messaging.csproj"/>
+<PackageReference Include="OpenTelemetry.Extensions.Hosting"/><PackageReference Include="OpenTelemetry.Exporter.OpenTelemetryProtocol"/><PackageReference Include="OpenTelemetry.Instrumentation.AspNetCore"/><PackageReference Include="OpenTelemetry.Instrumentation.Http"/><PackageReference Include="Microsoft.AspNetCore.OpenApi"/>
+</ItemGroup></Project>

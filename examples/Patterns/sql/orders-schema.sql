@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS "Orders"("Id" uuid PRIMARY KEY,"CustomerId" uuid NOT NULL,"TotalAmount" numeric(18,2) NOT NULL,"Currency" varchar(3) NOT NULL,"Status" varchar(40) NOT NULL,"CreatedAt" timestamptz NOT NULL);
+CREATE TABLE IF NOT EXISTS "OutboxMessages"("Id" uuid PRIMARY KEY,"EventType" varchar(200) NOT NULL,"Payload" jsonb NOT NULL,"OccurredAt" timestamptz NOT NULL,"PublishedAt" timestamptz NULL,"Attempts" integer NOT NULL DEFAULT 0,"NextAttemptAt" timestamptz NOT NULL,"LockedUntil" timestamptz NULL,"LockOwner" varchar(200) NULL);
+CREATE INDEX IF NOT EXISTS "IX_Outbox_Pending" ON "OutboxMessages"("NextAttemptAt") WHERE "PublishedAt" IS NULL;

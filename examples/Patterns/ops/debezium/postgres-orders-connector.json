@@ -1,0 +1,28 @@
+{
+  "name": "orders-postgres-cdc",
+  "config": {
+    "connector.class": "io.debezium.connector.postgresql.PostgresConnector",
+    "tasks.max": "1",
+    "database.hostname": "postgres",
+    "database.port": "5432",
+    "database.user": "debezium",
+    "database.password": "${file:/secrets/db.properties:password}",
+    "database.dbname": "orders",
+    "topic.prefix": "dbz",
+    "plugin.name": "pgoutput",
+    "slot.name": "debezium_orders",
+    "slot.drop.on.stop": "false",
+    "publication.name": "dbz_orders_publication",
+    "publication.autocreate.mode": "disabled",
+    "table.include.list": "public.orders",
+    "tombstones.on.delete": "false",
+    "snapshot.mode": "initial",
+    "decimal.handling.mode": "string",
+    "time.precision.mode": "adaptive_time_microseconds",
+    "include.schema.changes": "false",
+    "heartbeat.interval.ms": "10000",
+    "max.batch.size": "2048",
+    "max.queue.size": "8192",
+    "provide.transaction.metadata": "true"
+  }
+}
